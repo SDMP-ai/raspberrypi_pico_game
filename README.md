@@ -108,4 +108,4 @@ Controls are managed using a 2-axis analog joystick and dual hardware button swi
 
 4. Flash to Pico:
    * Connect the Raspberry Pi Pico to your computer in Bootloader mode (hold the BOOTSEL button while plugging in the USB cable).
-   * Copy the generated `3rd_task.uf2` binary to the mounted Pico USB drive.
+   * Copy the generated `.uf2` binary to the mounted Pico USB drive.
