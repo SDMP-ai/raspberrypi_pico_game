@@ -1,5 +1,8 @@
-# Prerequisites
-*.d
+# Build directory
+build/
+
+# VS Code config
+!.vscode/*
 
 # Object files
 *.o
@@ -35,6 +38,7 @@
 *.i*86
 *.x86_64
 *.hex
+*.uf2
 
 # Debug files
 *.dSYM/
